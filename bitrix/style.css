@@ -3843,6 +3843,11 @@ div#mCSB_1_container{
 
 .header-style-two .sticky-header{
   background: #1E1E1E;
+  display: none !important;
+}
+
+.fixed-header .header-style-two .sticky-header{
+  display: block !important;
 }
 
 .header-style-two .menu-area{
